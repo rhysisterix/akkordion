@@ -1,4 +1,4 @@
-akkodion
+akkordion
 ========
 
 akkordion.js
